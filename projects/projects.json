@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Website Disperindag ESDM Kab. Garut",
+    "desc": "Melakukan pengembangan Full-Stack pada website Disperindag ESDM Kab. Garut disertai dengan adanya penambahan GIS (Geographic Information System).",
+    "image": "disperindag",
+    "category": "mern",
+    "links": {
+      "view": "https://perdagangan.disperindag.garutkab.go.id/"
+    }
+  },
+  {
+    "name": "Stuntshield App",
+    "desc": "Aplikasi rekomendasi resep makanan bergizi dan monitoring pendataan pertumbuhan anak untuk pencegahan stunting.",
+    "image": "stuntshield",
+    "category": "mern",
+    "links": {
+      "view": "https://play.google.com/store/apps/details?id=id.stuntshield.stuntshieldapp"
+    }
+  },
+  {
+    "name": "Stuntshield API",
+    "desc": "Application Programming Interface yang menjadi sumber utama aplikasi StuntShield untuk mendukung penggunaan data.",
+    "image": "apistuntshield",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/muhammadarifs05/stunt-shield-api-main.git"
+    }
+  },
+  {
+    "name": "Meal Time Web Application",
+    "desc": "Meal Time Web Application adalah aplikasi web sederhana untuk menampilkan, mencari dan melihat panduan memasak makanan.",
+    "image": "mealtime",
+    "category": "mern",
+    "links": {
+      "view": "https://muhammadarifs05.github.io/meal-time-webapplication/"
+    }
+  },
+  {
+    "name": "Movie Catalogue",
+    "desc": "Movie Catalogue adalah aplikasi web yang menampilkan daftar film yang sedang tayang dan yang akan tayang, dengan mengambil data film dari TheMovieDB.",
+    "image": "moviecatalog",
+    "category": "lamp",
+    "links": {
+      "view": "https://muhammadarifs05.github.io/movie-catalogue"
+    }
+  },
+  {
+    "name": "MasaKuy Web Application",
+    "desc": "MasaKuy merupakan aplikasi resep masakan Nusantara berbasis web.",
+    "image": "masakuy",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/muhammadarifs05/Resep-Makanan-Nusantara.git"
+    }
+  }
+]
